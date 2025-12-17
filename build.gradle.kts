@@ -34,6 +34,8 @@ repositories {
     maven("https://maven.typewritermc.com/beta")
     maven("https://repo.nexomc.com/snapshots/")
     maven("https://repo.nexomc.com/releases")
+    maven("https://maven.pvphub.me/tofaa")
+    maven("https://mvn.lib.co.nz/public")
     maven("https://repo.md-5.net/content/groups/public/")
     maven {
         name = "feather-repo"
