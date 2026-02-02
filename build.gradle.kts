@@ -23,6 +23,7 @@ repositories {
     maven("https://repo.codemc.io/repository/maven-snapshots/")
     maven("https://repo.codemc.io/repository/maven-releases/")
     maven("https://repo.viaversion.com/")
+    maven("https://maven.pvphub.me/#/tofaa/io/github/tofaa2/")
     maven("https://repo.opencollab.dev/main/")
     maven("https://s01.oss.sonatype.org/content/repositories/snapshots/")
     maven("https://repo.oraxen.com/releases")
@@ -37,6 +38,7 @@ repositories {
     maven("https://maven.pvphub.me/tofaa")
     maven("https://mvn.lib.co.nz/public")
     maven("https://repo.md-5.net/content/groups/public/")
+    maven("https://mvn.lib.co.nz/public")
     maven {
         name = "feather-repo"
         url = uri("https://repo.feathermc.net/artifactory/maven-releases")
@@ -46,6 +48,7 @@ repositories {
         url = uri("https://dist.labymod.net/api/v1/maven/release/")
     }
     maven("https://repo.hibiscusmc.com/releases")
+    maven("https://maven.pvphub.me/tofaa")
 }
 
 dependencies {
